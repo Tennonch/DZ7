@@ -1,0 +1,14 @@
+F:\Visual studio\projects\DZ(5)\bin\Debug\net6.0\DZ(5).exe
+F:\Visual studio\projects\DZ(5)\bin\Debug\net6.0\DZ(5).deps.json
+F:\Visual studio\projects\DZ(5)\bin\Debug\net6.0\DZ(5).runtimeconfig.json
+F:\Visual studio\projects\DZ(5)\bin\Debug\net6.0\DZ(5).dll
+F:\Visual studio\projects\DZ(5)\bin\Debug\net6.0\DZ(5).pdb
+F:\Visual studio\projects\DZ(5)\obj\Debug\net6.0\DZ(5).GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual studio\projects\DZ(5)\obj\Debug\net6.0\DZ(5).AssemblyInfoInputs.cache
+F:\Visual studio\projects\DZ(5)\obj\Debug\net6.0\DZ(5).AssemblyInfo.cs
+F:\Visual studio\projects\DZ(5)\obj\Debug\net6.0\DZ(5).csproj.CoreCompileInputs.cache
+F:\Visual studio\projects\DZ(5)\obj\Debug\net6.0\DZ(5).dll
+F:\Visual studio\projects\DZ(5)\obj\Debug\net6.0\refint\DZ(5).dll
+F:\Visual studio\projects\DZ(5)\obj\Debug\net6.0\DZ(5).pdb
+F:\Visual studio\projects\DZ(5)\obj\Debug\net6.0\DZ(5).genruntimeconfig.cache
+F:\Visual studio\projects\DZ(5)\obj\Debug\net6.0\ref\DZ(5).dll
